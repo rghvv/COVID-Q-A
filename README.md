@@ -1,4 +1,4 @@
-# COVID19NLP
+# COVID Q&A
 Generate answer summaries from user queries about COVID-19.
 
 ## Setup:
