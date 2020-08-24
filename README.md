@@ -1,5 +1,5 @@
 # COVID19NLP
-Generate answer summaries from user queries.
+Generate answer summaries from user queries about COVID-19.
 
 ## Setup:
 Download the indexed Lucene file (5 GB), unzip, rename to 'lucene_index/' and place it in same directory as scripts
