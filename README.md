@@ -19,7 +19,7 @@ Please ensure you have all the following libraries installed:
 The first time you run it, you may need to install the pretrainned models in transformers.
 
 ## Example:
-running `modified_search.py` with query `what are the symptoms of Coronavirus`, results in:
+running `search_hit.py` with query `what are the symptoms of Coronavirus`, results in:
 
 (score:answer)
 
